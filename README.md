@@ -1,2 +1,2 @@
-# riverzlide
+# RiverZlide
 E-Commerce Platform
